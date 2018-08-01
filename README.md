@@ -43,6 +43,9 @@ http://sdk.gooddata.com/gooddata-ui/
 ###### Server https://developer.na.gooddata.com/ seems to be down.
 * If you decided to work on this homework during weekend, it is possible our platform may be down for several hours due to maintenance (typically on Saturdays). If https://developer.na.gooddata.com/ is down, try again in an hour or two. If you need more time to work on this homework, let us know.
 
+###### Clonning repo fails
+* If clonning using SSH fails, try HTTPS instead: `git clone https://github.com/gooddata/gooddata-js-interview.git`.
+
 ###### Charts do not get loaded.
 * Most likely, you are not logged in correctly. Check the Network tab in Google Chrome DevTools. If you see `HTTP 401 ERROR`, visit https://localhost:3000/account.html and log in properly.
 
